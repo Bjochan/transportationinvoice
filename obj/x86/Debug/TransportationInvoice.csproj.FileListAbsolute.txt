@@ -1,0 +1,75 @@
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.csprojResolveAssemblyReference.cache
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Properties.Resources.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.csproj.GenerateResource.Cache
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.exe.licenses
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Login.resources
+E:\Projects\Koguchi\Koguchi\bin\Debug\TransportationInvoice.exe.config
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Forms.frmAbout.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Forms.frmBumon.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Forms.frmChangePass.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Forms.frmCustomers.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Forms.frmKeiro.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Forms.frmKoguchi.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Forms.frmProjects.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.Forms.frmUsers.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.frmMain.resources
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.frmRegis.resources
+E:\Projects\Koguchi\Koguchi\bin\Debug\TransportationInvoice.exe
+E:\Projects\Koguchi\Koguchi\bin\Debug\TransportationInvoice.pdb
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.Data.v11.2.dll
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.Printing.v11.2.Core.dll
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.Utils.v11.2.dll
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraBars.v11.2.dll
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraEditors.v11.2.dll
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraGrid.v11.2.dll
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraLayout.v11.2.dll
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraNavBar.v11.2.dll
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraPrinting.v11.2.dll
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.Data.v11.2.xml
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.Utils.v11.2.xml
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraBars.v11.2.xml
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraEditors.v11.2.xml
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraGrid.v11.2.xml
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraLayout.v11.2.xml
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraNavBar.v11.2.xml
+E:\Projects\Koguchi\Koguchi\bin\Debug\DevExpress.XtraPrinting.v11.2.xml
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.exe
+E:\Projects\Koguchi\Koguchi\obj\x86\Debug\TransportationInvoice.pdb
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\TransportationInvoice.exe.config
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\TransportationInvoice.exe
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\TransportationInvoice.pdb
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.Data.v11.2.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.Printing.v11.2.Core.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.Utils.v11.2.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraBars.v11.2.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraEditors.v11.2.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraGrid.v11.2.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraLayout.v11.2.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraNavBar.v11.2.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraPrinting.v11.2.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.Data.v11.2.xml
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.Utils.v11.2.xml
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraBars.v11.2.xml
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraEditors.v11.2.xml
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraGrid.v11.2.xml
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraLayout.v11.2.xml
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraNavBar.v11.2.xml
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\DevExpress.XtraPrinting.v11.2.xml
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.csprojResolveAssemblyReference.cache
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Forms.frmAbout.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Forms.frmBumon.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Forms.frmChangePass.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Forms.frmCustomers.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Forms.frmKeiro.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Forms.frmKoguchi.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Forms.frmProjects.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Forms.frmUsers.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.frmMain.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.frmRegis.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Login.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.Properties.Resources.resources
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.csproj.GenerateResource.Cache
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.exe
+C:\Users\anh-4294\Documents\Visual Studio 2015\Projects\TransportationInvoice\TransportationInvoice\obj\x86\Debug\TransportationInvoice.pdb
